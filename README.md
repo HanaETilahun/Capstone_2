@@ -1,26 +1,35 @@
 # Capstone_2: Business Analysis with Python
 
-This project analyzes sales data for the South sales territory of the fictional EmporiUm bookstore company. The analysis was completed using Python, Pandas, NumPy, Matplotlib, and Jupyter Notebook.
+This project analyzes in-store sales performance for the Maryland and New Jersey sales territories in the Northeast region for the fictional EmporiUm bookstore company.
 
-Territories Analyzed:
-- Florida
-- Texas
-- South Carolina
+The analysis was completed using Python, Pandas, NumPy, Matplotlib, and Jupyter Notebook.
 
-The project includes:
-- Sales revenue analysis
-- Store performance ranking
-- Customer spending analysis
-- Product category analysis
-- Marketing recommendations
-- Matplotlib visualizations
+## Territories Analyzed
 
-Tools Used:
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-- GitHub
+* Maryland
+* New Jersey
 
-The goal of this project is to identify sales trends, top-performing stores, top customers, and opportunities for future marketing growth in the South territory.
+## Territory Managers
+
+* Shruti Reddy
+* Miami Vue
+
+## Project Includes
+
+* Monthly sales revenue analysis
+* Store performance ranking
+* Top customer analysis
+* Product category analysis
+* Marketing recommendations
+* Matplotlib visualizations
+
+## Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
+* GitHub
+
+The goal of this project is to identify sales trends, customer behavior, and opportunities for future marketing growth in the Northeast region.
