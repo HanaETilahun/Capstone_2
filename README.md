@@ -30,6 +30,8 @@ The analysis was completed using Python, Pandas, NumPy, Matplotlib, and Jupyter 
 * NumPy
 * Matplotlib
 * Jupyter Notebook
-* GitHub
+* GitHub link
+
+* https://yearuptemp-my.sharepoint.com/:p:/g/personal/htilahun_my_yearupunited_org/IQD_MEpUCoj0S5iRIp-LGcbCAbrqlgOAtpetpwIw3ySuc88?e=zdgkU4
 
 The goal of this project is to identify sales trends, customer behavior, and opportunities for future marketing growth in the Northeast region.
